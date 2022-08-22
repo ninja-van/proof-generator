@@ -1,0 +1,5 @@
+GET          /                                                         @controllers.HealthcheckController.healthcheck()
+GET          /healthcheck                                              @controllers.HealthcheckController.healthcheck()
+
+POST         /1.0/generate-proof-sigs                                  @controllers.ProofSignatureController.getProofSignatures()
+POST         /1.0/generate-proof                                       @controllers.ProofController.getProof()
