@@ -91,7 +91,7 @@ curl --location --request POST 'localhost:9000/1.0/generate-proof' \
 ```
 ## License
 These source codes (Airway Bill (AWB) Generator) incorporates source codes from  iText (com.itextpdf.itextpdf
-5.5.6, com.itextpdf.tool.xmlworker 5.5.11) and are published under GNU Affero General Public License version 3.
+5.5.13, com.itextpdf.tool.xmlworker 5.5.13) and are published under GNU Affero General Public License version 3.
 Copyright (C) <2022> <Ninja Logistics Pte. Ltd.>
 Copyright (C) iText® 5.5.13 ©2000-2018 iText Group NV (AGPL-version) for abovementioned source
 codes from iText
